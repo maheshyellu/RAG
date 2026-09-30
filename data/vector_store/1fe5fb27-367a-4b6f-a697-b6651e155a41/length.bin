@@ -1,6 +1,1 @@
-Important distinction
-A Query is not itself the final answer. It is a representation used to decide which information is relevant. Similarly, Keys
-are not the information that is ultimately copied into the output; Values provide the content that is aggregated.
-Matrix view
-For a sequence of token vectors X, learned matrices transform X into Q, K, and V. In simplified form: Q = XWQ, K =
-XWK, and V =
+invalid type: string "\u{7f} Automated RAG evaluation and monitoring.\n \nConclusion\nThe proposed AI Knowledge Assistant provides a practical foundation for learning and demonstrating RAG. The project\nseparates document processing, retrieval, and generation so each component can be tested independently. This\nmakes the system suitable both as a learning project and as a portfolio demonstration.\
